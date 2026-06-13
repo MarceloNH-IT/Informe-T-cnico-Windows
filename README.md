@@ -5,7 +5,7 @@ Este informe documenta el uso del **Administrador de tareas (pestaña Rendimient
 ---
 
 ## ⚙️ CPU
-![CPU](assets/cpu.png)
+![CPU](w2.jpeg)
 
 - Procesador: AMD Ryzen 7 5700G  
 - Uso actual: 18% a 3.66 GHz  
@@ -16,7 +16,7 @@ Este informe documenta el uso del **Administrador de tareas (pestaña Rendimient
 ---
 
 ## 🧠 Memoria RAM
-![Memoria](assets/memoria.png)
+![Memoria](w1.jpeg)
 
 - Capacidad total: 64 GB  
 - Uso actual: 14.2 GB (22%)  
@@ -27,7 +27,7 @@ Este informe documenta el uso del **Administrador de tareas (pestaña Rendimient
 ---
 
 ## 💾 Disco NVMe (C:)
-![Disco](assets/disco.png)
+![Disco](w3.jpeg)
 
 - Tipo: SSD NVMe  
 - Velocidad escritura: 23.5 MB/s  
@@ -37,7 +37,7 @@ Este informe documenta el uso del **Administrador de tareas (pestaña Rendimient
 ---
 
 ## 🌐 Red / Ethernet
-![Red](assets/red.png)
+![Red](w4.jpeg)
 
 - Controlador: Intel I225-V  
 - Velocidad actual: 1.9 Mbps recepción / 72 Kbps envío  
