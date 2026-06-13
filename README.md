@@ -46,7 +46,7 @@ Este informe documenta el uso del **Administrador de tareas (pestaña Rendimient
 ---
 
 ## 🎨 GPU
-![GPU](assets/gpu.png)
+![GPU](w6.jpeg)
 
 - Modelo: NVIDIA GeForce RTX 3090  
 - Uso actual: 7% | Temp: 36°C  
@@ -64,3 +64,4 @@ El Administrador de tareas permite monitorear en tiempo real:
 - **[GPU](ca://s?q=Interpretar_uso_de_GPU_en_Administrador_de_Tareas)**  
 
 Este README muestra un **informe técnico completo** con capturas y análisis, ideal para tu portafolio profesional en GitHub.
+Documentamos los parametros antes de liberar 5gb de ram 
