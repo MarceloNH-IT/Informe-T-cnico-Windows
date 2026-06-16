@@ -78,7 +78,7 @@ Documentamos los parametros antes de liberar 5gb de ram
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
 
-💼 LinkedIn: Horacio Marcelo Nuñez (Podés sumar tu enlace aquí más adelante)
+💼 LinkedIn: Horacio Marcelo Nuñez https://www.linkedin.com/in/marcelo-nunez-it/?skipRedirect=true
 
 📬 Correo Electrónico: marcelonh86@gmail.com
 
